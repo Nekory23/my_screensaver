@@ -1,6 +1,5 @@
 # my_screensaver
-
-{EPITECH} | First year | C Graphical Programming project
+# {EPITECH} | First year | C Graphical Programming project
 
 In this project, you are asked to render graphical effects and animations.
 
@@ -25,7 +24,7 @@ See the subject for further details !
 
 ========================
 
-1st semester C Graphical programming unit
+## 1st semester C Graphical programming unit
 
 Grade : C
 
